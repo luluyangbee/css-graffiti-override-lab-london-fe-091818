@@ -12,3 +12,8 @@
   display: none;
 } /*10 + 200 + 200*/
 
+#tag-4 .parent {
+  display: none;
+}
+<div class="parent">
+      <div id="tag-4"
