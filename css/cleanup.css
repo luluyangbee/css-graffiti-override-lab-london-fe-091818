@@ -13,7 +13,7 @@
 } /*10 + 200 + 200*/
 
 #wall #tag-4 {
-    display: block;
+    display: none;
 }
 
 #wall .parent #tag-5.slick {
