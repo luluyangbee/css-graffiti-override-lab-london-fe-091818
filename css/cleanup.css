@@ -12,8 +12,8 @@
   display: none;
 } /*10 + 200 + 200*/
 
-#tag-4 .parent {
-  display: none;
+#wall #tag-4 {
+    display: block;
 }
 
 #wall .parent #tag-5.slick {
